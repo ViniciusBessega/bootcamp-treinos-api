@@ -1,0 +1,9 @@
+Após a configuração manual do projeto, instalando framework, bibliotecas e o opencode, vocês devem revisar esse processo comparando com os arquivos de configuração disponibilizados nas aulas anteriores. Esses arquivos markdown são Configuração_projeto_dev_model_final.md e guia-setup-ambiente-bootcamp-treinos.md, que devem estar na raiz do projeto (pasta bootcamp-treinos-api ). Essa etapa estando concluída, vocês devem seguir os seguintes passos, para automatizar esse processo com IA
+
+1) Abrir o diretorio bootcamp-treinos-api e clicar com o botão direito do mouse em qualquer lugar vazio e selecionar a opção abrir no Terminal.
+
+2) Digitar o comando opencode no console.
+
+3) Com o opencode aberto, utilizar o comando models e selecionar o modelo da DeepSeek free.
+
+4) Após isso, utilizar o prompt em anexo e acompanhar o desenvolvimento da solicitação.
